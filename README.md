@@ -2,6 +2,7 @@
 
 A machine learning-based web application that predicts an individual's risk of diabetes based on user-provided health metrics. This project utilizes **Logistic Regression** for classification and is deployed with a responsive front-end using Flask and HTML/CSS.
 
+> Project Link: https://diabetes-prediction-web-app-pdot.onrender.com
 
 ## 🚀 Project Overview
 
